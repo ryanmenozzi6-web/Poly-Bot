@@ -8,7 +8,7 @@
   "min_trader_roi": 0.05,
   "extra_wallets": [],
   "stake_per_trade": 20,
-  "min_their_trade_usd": 500,
+  "min_their_trade_usd": 150,
   "max_trade_age_minutes": 10,
   "max_slippage_cents": 3,
   "skip_price_above": 0.95,
