@@ -1,0 +1,23 @@
+{
+  "leaderboard_category": "OVERALL",
+  "leaderboard_period": "MONTH",
+  "leaderboard_scan": 1000,
+  "top_n_traders": 75,
+  "max_trader_volume": 1000000,
+  "min_trader_profit": 5000,
+  "min_trader_roi": 0.05,
+  "extra_wallets": [],
+  "stake_per_trade": 20,
+  "min_their_trade_usd": 150,
+  "max_trade_age_minutes": 10,
+  "max_slippage_cents": 3,
+  "skip_price_above": 0.95,
+  "skip_price_below": 0.05,
+  "sell_when_they_sell": true,
+  "exit_when_they_sold_pct": 50,
+  "taker_fee_rate": 0.05,
+  "daily_summary_hour_et": 21,
+  "check_every_seconds": 20,
+  "update_positions_every_seconds": 120,
+  "reset_id": 1
+}
