@@ -1,8 +1,8 @@
 {
   "leaderboard_category": "OVERALL",
   "leaderboard_period": "MONTH",
-  "leaderboard_scan": 300,
-  "top_n_traders": 15,
+ "leaderboard_scan": 1000,
+ "top_n_traders": 50,
   "max_trader_volume": 1000000,
   "min_trader_profit": 5000,
   "min_trader_roi": 0.05,
