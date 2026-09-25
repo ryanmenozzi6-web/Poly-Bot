@@ -1,5 +1,5 @@
 # Paper bot report
-_Updated Sep 24, 09:51 PM ET_
+_Updated Sep 24, 09:59 PM ET_
 
 | | |
 |---|---|
@@ -16,6 +16,7 @@ _Updated Sep 24, 09:51 PM ET_
 ## Skipped (why we didn't copy)
 | Reason | Count |
 |---|---|
+| their bet too small | 1 |
 
 ## Open
 | Trader | Market | Pick | Paid | Now |
